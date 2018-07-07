@@ -1,10 +1,9 @@
 # Generic ignores #
 ###########################
-bin/
-dist/
-build/
-target
-gen/
+/nbproject/private/
+/bin/
+/dist/
+/build/
 
 # Compiled source #
 ###################
