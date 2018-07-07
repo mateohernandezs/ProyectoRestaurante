@@ -1,1 +1,16 @@
-/nbproject/private/
+# Generic ignores #
+###########################
+bin/
+dist/
+build/
+target
+gen/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
